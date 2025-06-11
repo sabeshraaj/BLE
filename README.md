@@ -16,11 +16,14 @@ A real-time healthcare monitoring dashboard that collects vital signs data from 
 
 ## Dashboard Preview
 
+![Dashboard Screenshot](dashboard.jpeg)
+
 The dashboard provides:
-- **Patient Information Panel**: Demographics, medical history, and current diagnosis
-- **Metric Selection Cards**: Interactive buttons for different vital signs
-- **Real-time Charts**: Live updating graphs with statistical summaries
+- **Patient Information Panel**: Demographics, medical history, and current diagnosis  
+- **Metric Selection Cards**: Interactive buttons for different vital signs  
+- **Real-time Charts**: Live updating graphs with statistical summaries  
 - **Alert Thresholds**: Visual indicators for abnormal readings (fever, low SpO2, etc.)
+
 
 ## System Architecture
 
