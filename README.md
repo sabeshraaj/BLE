@@ -81,7 +81,7 @@ datetime
 
 ### 1. Start the BLE Data Collector
 ```bash
-python ble_client.py
+python watch_to_mongo.py
 ```
 This will:
 - Connect to your Vincense Watch
@@ -90,7 +90,7 @@ This will:
 
 ### 2. Launch the Dashboard
 ```bash
-python dashboard.py
+python webdashboard.py
 ```
 Or use voice command: Say **"Hey Apollo"** to automatically launch the dashboard.
 
