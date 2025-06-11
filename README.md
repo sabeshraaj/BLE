@@ -1,4 +1,4 @@
-# MEZOI Healthcare Monitoring System
+# BLE : MEZOI Healthcare Monitoring System
 
 A real-time healthcare monitoring dashboard that collects vital signs data from Bluetooth Low Energy (BLE) devices and displays interactive visualizations through a web-based interface.
 
