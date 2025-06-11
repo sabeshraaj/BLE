@@ -2,8 +2,6 @@
 
 A real-time healthcare monitoring dashboard that collects vital signs data from Bluetooth Low Energy (BLE) devices and displays interactive visualizations through a web-based interface.
 
-![MEZOI Dashboard](https://img.shields.io/badge/Python-3.7+-blue.svg)
-
 ## Features
 
 - **Real-time Vital Signs Monitoring**: Tracks pulse pressure, temperature, SpO2, and respiratory rate
@@ -99,7 +97,7 @@ Or use voice command: Say **"Hey Apollo"** to automatically launch the dashboard
 ### 3. Access the Dashboard
 Open your browser and navigate to: `http://localhost:8051`
 
-## 📊 Data Structure
+## Data Structure
 
 The system stores data in MongoDB with the following structure:
 
@@ -158,7 +156,7 @@ fig.add_hline(y=95, line_dash="dash", line_color='green',
              annotation_text="Normal SpO2 (95%+)")
 ```
 
-## 🔍 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
